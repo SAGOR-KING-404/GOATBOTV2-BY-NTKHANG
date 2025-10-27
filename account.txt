@@ -1,101 +1,145 @@
-███████╗
-██╔════╝
-█████╗░░
-██╔══╝░░
-██║░░░░░
-╚═╝░░░░░
-
-░█████╗░
-██╔══██╗
-██║░░██║
-██║░░██║
-╚█████╔╝
-░╚════╝░
-
-██████╗░
-██╔══██╗
-██████╔╝
-██╔══██╗
-██║░░██║
-╚═╝░░╚═╝
-
-██╗░░██╗
-██║░██╔╝
-█████═╝░
-██╔═██╗░
-██║░╚██╗
-╚═╝░░╚═╝
-
-███████╗
-██╔════╝
-█████╗░░
-██╔══╝░░
-███████╗
-╚══════╝
-
-██████╗░
-██╔══██╗
-██████╔╝
-██╔══██╗
-██║░░██║
-╚═╝░░╚═╝
-
-░██████╗
-██╔════╝
-╚█████╗░
-░╚═══██╗
-██████╔╝
-╚═════╝░
-
-
-░█████╗░██████╗░███████╗
-██╔══██╗██╔══██╗██╔════╝
-███████║██████╔╝█████╗░░
-██╔══██║██╔══██╗██╔══╝░░
-██║░░██║██║░░██║███████╗
-╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
-
-████████╗██╗░░██╗██╗███████╗███████╗
-╚══██╔══╝██║░░██║██║██╔════╝██╔════╝
-░░░██║░░░███████║██║█████╗░░█████╗░░
-░░░██║░░░██╔══██║██║██╔══╝░░██╔══╝░░
-░░░██║░░░██║░░██║██║███████╗██║░░░░░
-░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚══════╝╚═╝░░░░░
-
-
-░█████╗░░█████╗░░█████╗░██╗░░██╗██╗███████╗
-██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██║██╔════╝
-██║░░╚═╝██║░░██║██║░░██║█████═╝░██║█████╗░░
-██║░░██╗██║░░██║██║░░██║██╔═██╗░██║██╔══╝░░
-╚█████╔╝╚█████╔╝╚█████╔╝██║░╚██╗██║███████╗
-░╚════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═╝╚══════╝
-
-██╗  ░██╗░░░░░░░██╗██╗██╗░░░░░██╗░░░░░
-██║  ░██║░░██╗░░██║██║██║░░░░░██║░░░░░
-██║  ░╚██╗████╗██╔╝██║██║░░░░░██║░░░░░
-██║  ░░████╔═████║░██║██║░░░░░██║░░░░░
-██║  ░░╚██╔╝░╚██╔╝░██║███████╗███████╗
-╚═╝  ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝
-
-███████╗██╗░░░██╗░█████╗░██╗░░██╗
-██╔════╝██║░░░██║██╔══██╗██║░██╔╝
-█████╗░░██║░░░██║██║░░╚═╝█████═╝░
-██╔══╝░░██║░░░██║██║░░██╗██╔═██╗░
-██║░░░░░╚██████╔╝╚█████╔╝██║░╚██╗
-╚═╝░░░░░░╚═════╝░░╚════╝░╚═╝░░╚═╝
-
-██╗░░░██╗░█████╗░██╗░░░██╗██████╗░
-╚██╗░██╔╝██╔══██╗██║░░░██║██╔══██╗
-░╚████╔╝░██║░░██║██║░░░██║██████╔╝
-░░╚██╔╝░░██║░░██║██║░░░██║██╔══██╗
-░░░██║░░░╚█████╔╝╚██████╔╝██║░░██║
-░░░╚═╝░░░░╚════╝░░╚═════╝░╚═╝░░╚═╝
-
-░█████╗░░██████╗░██████╗
-██╔══██╗██╔════╝██╔════╝
-███████║╚█████╗░╚█████╗░
-██╔══██║░╚═══██╗░╚═══██╗
-██║░░██║██████╔╝██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═════╝░
-
-KUYA WAG MO MUNA LAGYAN NG COOKIE YUNG ACCOUNT.TXT EH PUBLISH MO MUNA BAGO MO LAGYAN NG COOKIE YUNG ACCOUNT.TXT, PAG BINASA MUTO SAFE YANG ACCOUNT BOT MO 
+[
+  {
+    "name": "dbln",
+    "value": "%7B%2261582934603111%22%3A%22sXAA6A44%22%7D",
+    "domain": ".facebook.com",
+    "path": "/login/device-based/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "no_restriction",
+    "expirationDate": 1769330364.472869,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "datr",
+    "value": "pi__aBOmCH6naU2FqCzrjnPc",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "no_restriction",
+    "expirationDate": 1777136192.874799,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "sb",
+    "value": "pi__aEDDIaujT-1aEvDM2V0j",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "no_restriction",
+    "expirationDate": 1777106361.144652,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "c_user",
+    "value": "61582934603111",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "no_restriction",
+    "expirationDate": 1777106361.143174,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "xs",
+    "value": "16%3AHWQsHxB0PlTOiA%3A2%3A1761554360%3A-1%3A-1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "no_restriction",
+    "expirationDate": 1777106361.145344,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "locale",
+    "value": "en_US",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "no_restriction",
+    "expirationDate": 1762159165.212338,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "pas",
+    "value": "61582934603111%3AEeBYyBi2me",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "lax",
+    "expirationDate": 1777136189.689288,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "vpd",
+    "value": "v1%3B705x360x2",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "lax",
+    "expirationDate": 1766768191,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "fr",
+    "value": "0jQr4cgHScfz8POdb.AWffkSZ4v1VxoWjfmDIoDKRHKcqfHnH-QlgMHLVtu5UhM2hidJ8.Bo_y-m..AAA.0.0.Bo_6Q-.AWdFjax4MLOkhGiG3E4Wx0e_58U",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "no_restriction",
+    "expirationDate": 1769360189.685628,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "wl_cbv",
+    "value": "v2%3Bclient_version%3A2965%3Btimestamp%3A1761584190",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "no_restriction",
+    "expirationDate": 1769360191,
+    "storeId": "0",
+    "session": false
+  },
+  {
+    "name": "fbl_st",
+    "value": "101723519%3BT%3A29359736",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "strict",
+    "expirationDate": 1777136191.865729,
+    "storeId": "0",
+    "session": false
+  }
+]
